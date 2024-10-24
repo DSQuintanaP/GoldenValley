@@ -2,3 +2,6 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+let table = new datatable('#dt2', {
+    pageLength: 15
+})
